@@ -1,4 +1,4 @@
-package ru.laimcraft.homes;
+/*package ru.laimcraft.homes;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
@@ -250,3 +250,4 @@ public class HomeCommand implements CommandExecutor {
 
     }
 }
+*/

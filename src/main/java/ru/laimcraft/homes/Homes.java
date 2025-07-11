@@ -1,13 +1,13 @@
 package ru.laimcraft.homes;
 
 import org.bukkit.plugin.java.JavaPlugin;
+import ru.laimcraft.homes.config.HomeConfig;
 
 public final class Homes extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        // Plugin startup logic
-
+        HomeConfig.init(this);
     }
 
     @Override

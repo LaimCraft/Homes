@@ -1,0 +1,6 @@
+storage:
+  save-format: "name" # username, usernameIgnoreCase, uuid
+  type: "file" # file, mysql
+  schema: "?" # PostgreSQL (не используется)
+  database: "homes" # Data Base
+  table: "homes" # Table
